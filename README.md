@@ -5,5 +5,4 @@ Ensemble learning is proven to have better performance than individual learning.
 Reference:
 
 De-Cheng Feng, Wen-Jie Wang, Sujith Mangalathu, Gang Hu*, and Tao Wu. "Implementing ensemble learning methods to predict the shear strength of RC deep beams with/without web reinforcements". Engineering Structures, Volume 235, 15 May 2021, 111979.
-
 (https://doi.org/10.1016/j.engstruct.2021.111979)
